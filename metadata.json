@@ -1,0 +1,6 @@
+{
+  "name": "EduManage",
+  "description": "A complete, secure and offline-first modern Student Management System with fee histories, directories, classes, roles, and automated reporting.",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
